@@ -7,3 +7,6 @@
 [submodule "Fundamentals_ML_edX"]
 	path = Fundamentals_ML_edX
 	url = git@github.com:marreA/Fundamentals_ML_edX.git
+[submodule "iris-classifier"]
+	path = iris-classifier
+	url = git@github.com:marreA/iris-classifier.git
