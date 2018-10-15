@@ -1,0 +1,9 @@
+[submodule "DataScience"]
+	path = DataScience
+	url = git@github.com:marreA/DataScience.git
+[submodule "T_Machine_Learning"]
+	path = T_Machine_Learning
+	url = git@github.com:marreA/T_Machine_Learning.git
+[submodule "Fundamentals_ML_edX"]
+	path = Fundamentals_ML_edX
+	url = git@github.com:marreA/Fundamentals_ML_edX.git
